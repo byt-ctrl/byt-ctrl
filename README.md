@@ -5,7 +5,7 @@ Hi, I'm Om Patel! I'm currently pursuing a degree in **Computer Science Engineer
 - 🎓 Currently pursuing : Computer Science Engineering in Navrachna University Vadodara
 - 📫 How to reach me : ombpatel2202@gmail.com
 - 😄 Pronouns : He/Him
-
+- 
 ## 📐 Skills & Technologies :
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
