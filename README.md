@@ -30,4 +30,6 @@ Hi, I'm Om Patel! I'm currently pursuing a degree in **Computer Science Engineer
 ## 🌐 Connect with Me :
 - 📧 Email : [ombpatel2202@gmail.com](mailto:ombpatel2202@gmail.com)
 - 🐙 GitHub : [@byt-ctrl](https://github.com/byt-ctrl)
+- 🧑‍💻 Leet Code [LeetCode Profile - Byt-Ctrl](https://leetcode.com/u/byt-ctrl/)
+
 
