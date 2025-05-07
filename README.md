@@ -1,8 +1,8 @@
 # 👨‍💻 Om Patel | Computer Science Engineering Student | Tech Buff
 
-Hi, I'm Om Patel! I'm currently pursuing a degree in **Computer Science Engineering**. I’m passionate about learning new things related to **`Software `** and **`Hardware Implementation`**. I am always eager to improve my skills in tech.
+Hi, I'm Om Patel! I'm currently pursuing a degree in **Computer Science Engineering** **+** **Mechatronics** (minor) . I’m passionate about learning new things related to **`Software `** and **`Hardware Implementation`**. I am always eager to improve my skills in tech.
 
-- 🎓 Currently pursuing : Computer Science Engineering in Navrachna University Vadodara
+- 🎓 Currently pursuing : Computer Science Engineering + Mechatronics (minor) in Navrachna University Vadodara
 - 📫 How to reach me : ombpatel2202@gmail.com
 - 😄 Pronouns : He/Him
   
