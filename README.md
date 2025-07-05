@@ -16,15 +16,18 @@ Hi, I'm Om Patel! I'm currently pursuing a degree in **Computer Science Engineer
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
 ## GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=byt-ctrl&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
-![](https://nirzak-streak-stats.vercel.app/?user=byt-ctrl&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=byt-ctrl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![byt-ctrl's Stats](https://github-readme-stats.vercel.app/api?username=byt-ctrl&theme=dark&show_icons=true&hide_border=true&count_private=true)<br/><br/>
+![byt-ctrl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=byt-ctrl&theme=dark&hide_border=true)<br/><br/>
+![byt-ctrl's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byt-ctrl&theme=dark&show_icons=true&hide_border=true&layout=compact)
 <br/>
+
+
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=byt-ctrl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <br/>
