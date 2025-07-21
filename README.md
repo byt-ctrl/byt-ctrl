@@ -23,7 +23,7 @@ Hi, I'm Om Patel! I'm currently pursuing a degree in **Computer Science Engineer
 
 ## GitHub Stats :
 ![byt-ctrl's Stats](https://github-readme-stats.vercel.app/api?username=byt-ctrl&theme=dark&show_icons=true&hide_border=true&count_private=true)<br/><br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=byt-ctrl&theme=dark&hide_border=true)
+<img src="https://raw.githubusercontent.com/byt-ctrl/byt-ctrl/output/snake.svg" alt="Snake animation" />
 <br/><br/>
 ![byt-ctrl's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byt-ctrl&theme=dark&show_icons=true&hide_border=true&layout=compact)
 <br/>
