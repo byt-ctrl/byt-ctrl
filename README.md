@@ -1,7 +1,3 @@
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=byt-ctrl.byt-ctrl&"  />
-</div>
-
 #  Om Patel | Computer Science Engineering Student 
 
 Hi, I'm Om Patel! I'm currently pursuing a degree in **Computer Science Engineering** **+** **Mechatronics** (minor) . I’m passionate about learning new things related to **`Software `** and **`Hardware Implementation`**. I am always eager to improve my skills in tech.
