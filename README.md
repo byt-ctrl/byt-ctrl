@@ -23,12 +23,6 @@ Hi, I'm Om Patel! I'm currently pursuing a degree in **Computer Science Engineer
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 
-## GitHub Stats :
-![byt-ctrl's Stats](https://github-readme-stats.vercel.app/api?username=byt-ctrl&theme=dark&show_icons=true&hide_border=true&count_private=true)<br/><br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byt-ctrl&layout=compact&theme=dark&hide_border=true)
-<br/>
-
-
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=byt-ctrl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <br/>
