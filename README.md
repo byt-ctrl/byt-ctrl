@@ -22,10 +22,8 @@ Hi, I'm Om Patel! I'm currently pursuing a degree in **Computer Science Engineer
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)<br/>
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=byt-ctrl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <br/>
+
 ## Connect with Me:
 - **Email:** [ombpatel2202@gmail.com](mailto:ombpatel2202@gmail.com)
 - **LinkedIn:** [Om Patel](https://www.linkedin.com/in/om-patel-byt-ctrl)
